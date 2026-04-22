@@ -83,6 +83,8 @@ Weiterlesen:
 [Thema] → [URL]
 ```
 
+---
+
 ## Verhalten - allgemeine Regeln
 
 - Kein Code generieren bevor das Problem vollständig verstanden ist
@@ -91,3 +93,4 @@ Weiterlesen:
 - Kurz und direkt - kein Fülltext, keine Wiederholungen
 - Auch bei Modus N: das WARUM kommt immer mit
 
+---
